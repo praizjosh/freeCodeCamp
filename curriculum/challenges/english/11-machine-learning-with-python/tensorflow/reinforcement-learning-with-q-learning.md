@@ -10,6 +10,12 @@ bilibiliIds:
 dashedName: reinforcement-learning-with-q-learning
 ---
 
+# --description--
+
+<br>
+
+<small>The next few video lessons will reference [this Colab notebook](https://colab.research.google.com/drive/).</small>
+
 # --question--
 
 ## --text--
